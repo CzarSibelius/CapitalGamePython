@@ -1,0 +1,3 @@
+finland,helsinki
+sweden,stockholm
+belarus,minsk
